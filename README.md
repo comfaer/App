@@ -1,3 +1,13 @@
+В этом приложении можно:
+1) Добавлять посты
+2) Отмечать понравившееся посты, нажав на текст
+3) Искать посты
+4) Удалаять посты
+5) Просматривать понравившееся посты
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
